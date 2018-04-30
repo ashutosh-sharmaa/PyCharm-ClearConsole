@@ -1,4 +1,4 @@
-
+#Console Clearing method
 def clear_console():
     """This is used to clear console, specifically designed for PyCharm IDE users"""
     import pyautogui
