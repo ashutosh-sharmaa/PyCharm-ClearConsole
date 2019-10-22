@@ -7,5 +7,4 @@ def clear_console():
     pyautogui.click()
     pyautogui.hotkey('alt','l')
 
-#print("Hello World")
 clear_console()
